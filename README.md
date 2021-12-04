@@ -16,3 +16,20 @@ Download the data:
      (4)RNAseq (HiSeq, Gene level)
      
      (5)SCNV (Focal level, log-ratio)
+
+## Catalogue
+### 1.  Autoencoder Models
+
+### 2. Breast/Glioma dataserts after feature extraction
+
+### 3. Cp decomposed results sets
+
+### 4. Classification on TP of breast
+
+### 5. Survival Ananlysis
+
+### 6. Data preprocessing
+
+### 7. Original Datasets
+
+### 8. Tensor Analysis
