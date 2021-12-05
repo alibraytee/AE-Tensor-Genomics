@@ -1,1 +1,4 @@
-The specific SCNV datasets used to train the AE model is the SCNV with 256 dimensions as the AE models traning on this level of dimensions have shown the smallest loss value.
+### This folder contains the architecture of the AE models for each single omics from Breast Invasive Cancer
+
+The specific SCNV datasets used to train the AE model is the SCNV with 256 dimensions,
+as the AE models traning on this level of dimensions have shown the smallest loss value.
