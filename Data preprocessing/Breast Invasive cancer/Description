@@ -1,1 +1,4 @@
-
+SCNV has the smallest number of dimensions. Hence, the dimensions of SCNV have been extended to 128, 256, 512 and 1028. 
+The new datasets of SCNV technique with 128 dimensions, 256 dimensions,512 dimensions and 1024 dimensions have been uploaded to the file to usd for the building and training of AE models. 
+Only the best of AE models built on the specific SCNV data will be kept.
+The extension of dimensions focuses on the imputation of zero values to reduce the affect of the new values at the most level.
