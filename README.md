@@ -2,7 +2,7 @@
 
 ## Github link: https://github.sydney.edu.au/5703/5703.git
 
-## The original data can be downloaded from linkedomics directly, or access the google drive via link https://drive.google.com/drive/folders/1-Duhzo_m4aCRvrT64GdcOYoPtQpt4zKj?usp=sharing
+## The original data can be downloaded from linkedomics directly, or access the google drive(original/matched) via link https://drive.google.com/drive/folders/1-Duhzo_m4aCRvrT64GdcOYoPtQpt4zKj?usp=sharing
 
 
 1. Breast Invasive Carcinoma
@@ -65,6 +65,8 @@ Containing the optimal results from CP decomposition
 #### Autoencoder Models
 
 Containing the architecture of autoencoder models for each single omics
+
+p.s. AE model for mirna is migrated in one jupyter notebook located in the Autoencoder models/Breast
 
 #### Tensor Analysis
 
