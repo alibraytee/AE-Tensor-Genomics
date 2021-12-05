@@ -1,1 +1,1 @@
-
+The specific SCNV files used to build AE models is the csv file with 256 dimensions as the Model built on top of the 256 dimensions have shown the best performance compared with the other dimensions of the SCNV datasets.
