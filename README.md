@@ -5,7 +5,7 @@
 ## The original data can be downloaded from linkedomics directly, or access the google drive(original/matched) via link https://drive.google.com/drive/folders/1-Duhzo_m4aCRvrT64GdcOYoPtQpt4zKj?usp=sharing
 
 
-1. Breast Invasive Carcinoma
+1. Breast Invasive Carcinoma (can be downloaded from https://drive.google.com/drive/folders/1xKUbh9XJrlS7OyI4eDgABqwXbF-eiJzX?usp=share_link)
 
 retrieved from http://linkedomics.org/data_download/TCGA-BRCA/
 
@@ -21,7 +21,7 @@ Selected omics:
 
   (5) Clinical
 
-2. Glioma
+2. Glioma (can be downloaded from https://drive.google.com/drive/folders/1ZFsTRkBtyTHrEQxi5f-XIYmWO8Kxs2LB?usp=share_link)
 
 retrieved from http://linkedomics.org/data_download/TCGA-GBMLGG/
 
