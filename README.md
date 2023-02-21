@@ -1,4 +1,4 @@
-# DATA5703 CS30-2 Tensor Analysis On Genomics Data
+# CS30-2 Tensor Analysis On Genomics Data
 
 ## Github link: https://github.sydney.edu.au/5703/5703.git
 
